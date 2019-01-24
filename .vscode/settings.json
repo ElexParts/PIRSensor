@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/das/.platformio/penv/bin:/Users/das/.platformio/penv:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/var/pyenv/shims:/usr/local/var/pyenv/bin:/usr/local/bin:/Users/das/.rvm/gems/ruby-2.0.0-p648/bin:/Users/das/.rvm/gems/ruby-2.0.0-p648@global/bin:/Users/das/.rvm/rubies/ruby-2.0.0-p648/bin:/usr/local/texlive/2018/bin/x86_64-darwin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Library/TeX/texbin:/opt/X11/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/das/.composer/vendor/bin:/Users/das/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
